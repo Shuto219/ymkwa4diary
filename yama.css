@@ -3,8 +3,8 @@ body {
 }
 
 .header {
-    background-color: #f7f2b4;
-    color: black;
+    background-color: #348498;
+    color: white;
     height: 90px;
 }
 
@@ -12,6 +12,7 @@ body {
     float: left;
     font-size: 36px;
     padding: 30px 40px;
+    font-family: Impact;
 }
 
 .header-list li {
@@ -19,11 +20,13 @@ body {
     list-style: none;
     font-size: 28px;
     padding: 30px 40px;
+    color: white;
 }
 
 .main {
-    height: 600px;
-    background-color: #bdf7f1;
+    height: 800px;
+    background-color: #ff502f;
+    color: white;
 }
 
 .main h1 {
@@ -35,18 +38,20 @@ body {
 }
 
 .footer {
-    background-color: #ceccf3;
-    color: black;
+    background-color: #004d61;
+    color: white;
     height: 270px;
 }
 
 .footer-logo {
     float: left;
     font-size: 36px;
+    font-family: Impact;
 }
 
 .footer-list {
     list-style: none;
     float: right;
     font-size: 28px;
+    color: white;
 }
