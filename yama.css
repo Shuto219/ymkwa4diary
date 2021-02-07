@@ -25,20 +25,22 @@ body {
 
 .main {
     height: 800px;
-    background-color: #ff502f;
-    color: white;
+    /*  background-color: #ff502f; */
+    color: black;
 }
 
 .main h1 {
     font-size: 100px;
+    color: black;
 }
 
 .main h2 {
     font-size: 50px;
+    color: black;
 }
 
 .footer {
-    background-color: #004d61;
+    background-color:#348498;
     color: white;
     height: 270px;
 }
