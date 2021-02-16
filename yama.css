@@ -564,12 +564,10 @@
    clip: rect(0, 0, 0, 0);
    position: absolute;
  }
-/*--------------------------------------ここから本文-----------------------------------------*/
+/*------------------------------------------------ここから本文------------------------------------------------------------------*/
 
 body {
     font-family: "Avenir Next";
-    margin: 0px;
-    padding: 0px;
 }
 
 .header {
@@ -583,7 +581,6 @@ body {
     font-size: 36px;
     padding: 30px 40px;
     font-family: Impact;
-
 }
 
 .header-list li {
@@ -592,6 +589,10 @@ body {
     font-size: 28px;
     padding: 30px 40px;
     color: white;
+}
+
+.ul ul-list {
+  margin: 0px;
 }
 
 .main {
